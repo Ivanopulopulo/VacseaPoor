@@ -1,0 +1,245 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\VacseaPoor2\\app\\build\\intermediates\\res\\merged\\release\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\VacseaPoor2\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map7.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51604"
+                    },
+                    "to": {
+                        "startLines": "620",
+                        "startColumns": "4",
+                        "startOffsets": "308747",
+                        "endLines": "722",
+                        "endColumns": "15",
+                        "endOffsets": "360190"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map2.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51604"
+                    },
+                    "to": {
+                        "startLines": "105",
+                        "startColumns": "4",
+                        "startOffsets": "51507",
+                        "endLines": "207",
+                        "endColumns": "15",
+                        "endOffsets": "102950"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map1.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51608"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "104",
+                        "endColumns": "15",
+                        "endOffsets": "51502"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map5.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51604"
+                    },
+                    "to": {
+                        "startLines": "414",
+                        "startColumns": "4",
+                        "startOffsets": "205851",
+                        "endLines": "516",
+                        "endColumns": "15",
+                        "endOffsets": "257294"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "828,835",
+                        "startColumns": "4,4",
+                        "startOffsets": "411744,412035",
+                        "endLines": "834,837",
+                        "endColumns": "12,12",
+                        "endOffsets": "412030,412190"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map3.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51604"
+                    },
+                    "to": {
+                        "startLines": "208",
+                        "startColumns": "4",
+                        "startOffsets": "102955",
+                        "endLines": "310",
+                        "endColumns": "15",
+                        "endOffsets": "154398"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map6.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51604"
+                    },
+                    "to": {
+                        "startLines": "517",
+                        "startColumns": "4",
+                        "startOffsets": "257299",
+                        "endLines": "619",
+                        "endColumns": "15",
+                        "endOffsets": "308742"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "58,107",
+                        "endColumns": "47,52",
+                        "endOffsets": "101,155"
+                    },
+                    "to": {
+                        "startLines": "826,827",
+                        "startColumns": "4,4",
+                        "startOffsets": "411643,411691",
+                        "endColumns": "47,52",
+                        "endOffsets": "411686,411739"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map4.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51604"
+                    },
+                    "to": {
+                        "startLines": "311",
+                        "startColumns": "4",
+                        "startOffsets": "154403",
+                        "endLines": "413",
+                        "endColumns": "15",
+                        "endOffsets": "205846"
+                    }
+                },
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values\\map8.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "0",
+                        "startOffsets": "59",
+                        "endLines": "107",
+                        "endColumns": "15",
+                        "endOffsets": "51604"
+                    },
+                    "to": {
+                        "startLines": "723",
+                        "startColumns": "4",
+                        "startOffsets": "360195",
+                        "endLines": "825",
+                        "endColumns": "15",
+                        "endOffsets": "411638"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\VacseaPoor2\\app\\build\\intermediates\\res\\merged\\release\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\VacseaPoor2\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

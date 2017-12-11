@@ -1,0 +1,4 @@
+#Sun Dec 10 22:26:54 MSK 2017
+base.0=C\:\\VacseaPoor2\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=C\:\\VacseaPoor2\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
