@@ -73,7 +73,7 @@ public class Zombie{
 		if (Math.abs(xhero - x) < 20) {
 			
 			if (noneill == 0) {
-			Hero.health -= 5*active;	
+			Hero.health -= 3*active;	
 			}
 			 move = 0;
 		}
