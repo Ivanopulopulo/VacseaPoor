@@ -86,6 +86,14 @@ public class Zombie{
 	
 	
 	void inv(int i){
+		
+		if (health <= 0) {
+			Map.mapget[plasei][plasej-1][1] = "0";
+			Map.mapget[plasei][plasej-2][1] = "0";
+			Map.mapget[plasei][plasej-1][3] = i+"";
+			Map.mapget[plasei][plasej-2][3] = i+"";
+		}
+		
 		if ((active!=0)) {
     	plasei = (int)(x/Map.klet);
     	plasej = (int)(-y/Map.klet);
