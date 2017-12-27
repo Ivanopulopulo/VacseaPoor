@@ -108,12 +108,12 @@ public class Gun {
 				    		bulletsy[j] = -1000;
 		 	
 		    			if (Hero.gunnumb == 1) {
-				    		Map.zomb[k].health-=20;
+				    		Map.zomb[k].health-=50;
 				    		}
 				    		
 				    		
 				    		if (Hero.gunnumb == 2) {
-					    	Map.zomb[k].ill-=20;
+					    	Map.zomb[k].ill-=100;
 					    	}
 				    		
 				    		
